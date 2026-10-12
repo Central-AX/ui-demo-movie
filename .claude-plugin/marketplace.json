@@ -1,0 +1,22 @@
+{
+  "name": "ui-demo-movie",
+  "owner": {
+    "name": "Central AX",
+    "url": "https://central-ax.co.jp"
+  },
+  "metadata": {
+    "description": "業務AIの実演動画を、実画面のスクショから作るClaude Code skill（ui-demo-movie）の配布用マーケットプレイス。",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ui-demo-movie",
+      "source": "./plugins/ui-demo-movie",
+      "description": "実画面のスクショから「AIが書き込んでいる」実演動画（1920x1080 MP4）を作る。録画不要。",
+      "version": "1.0.0",
+      "author": { "name": "Central AX" },
+      "category": "productivity",
+      "keywords": ["video", "demo", "screenshot", "japanese"]
+    }
+  ]
+}

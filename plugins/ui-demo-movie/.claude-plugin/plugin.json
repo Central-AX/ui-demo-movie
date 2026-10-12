@@ -1,0 +1,12 @@
+{
+  "name": "ui-demo-movie",
+  "displayName": "UI Demo Movie",
+  "description": "実画面のスクショから「AIが書き込んでいる」実演動画（1920x1080 MP4）を作る。録画不要。",
+  "version": "1.0.0",
+  "author": {
+    "name": "Central AX",
+    "url": "https://central-ax.co.jp"
+  },
+  "homepage": "https://github.com/Central-AX/ui-demo-movie",
+  "keywords": ["video", "demo", "screenshot", "japanese"]
+}
